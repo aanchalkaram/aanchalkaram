@@ -7,7 +7,7 @@ I enjoy designing systems where model reasoning, tools, and workflows come toget
 
 ---
 
-## What I Work On ⚙️  
+## What I Work On  
 
 - AI agents with LangChain, LangGraph, LlamaIndex, and SmolAgents  
 - Practical LLM apps: prompting, evaluation, deployment  
@@ -17,7 +17,7 @@ I enjoy designing systems where model reasoning, tools, and workflows come toget
 
 ---
 
-## What I Write About ✍️  
+## What I Write About
 
 I publish **beginner-friendly, story-driven articles** on Medium focusing on:  
 - LLM fundamentals and intuition-building  
